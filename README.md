@@ -14,13 +14,13 @@
         </li>
        
 <h2> Inside App</h2>
-  <div class="image-container">
-        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/ead7ea58-20a8-4cfa-a520-36c55bd3f184" alt="Image 1">
-        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/64f769a2-97e4-4668-a52c-f61ec1c01bf2" alt="Image 2">
-        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/27d30f0d-61d5-43b9-9faa-09a1bde2c2de" alt="Image 3">
-        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/1236e0ab-f244-4c94-8e9a-bc4d17c05d46" alt="Image 4">
-    </div>
-    
+    <p align="center">
+        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/ead7ea58-20a8-4cfa-a520-36c55bd3f184" alt="Image 1" width="150">
+        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/64f769a2-97e4-4668-a52c-f61ec1c01bf2" alt="Image 2" width="150">
+        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/27d30f0d-61d5-43b9-9faa-09a1bde2c2de" alt="Image 3" width="150">
+        <img src="https://github.com/Jihad82/Flutter-Authentication-Ui/assets/91656309/1236e0ab-f244-4c94-8e9a-bc4d17c05d46" alt="Image 4" width="150">
+</p>
+
   <h2>Getting Started</h2>
     
   <h3>Prerequisites</h3>
